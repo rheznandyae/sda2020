@@ -1,1 +1,2 @@
-# sda2020
+# About
+All my asignment from data structure and algorithm lecture
