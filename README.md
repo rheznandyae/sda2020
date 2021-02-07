@@ -1,2 +1,2 @@
 # About
-All my asignment from data structure and algorithm lecture
+All my asignments from data structure and algorithm lecture
